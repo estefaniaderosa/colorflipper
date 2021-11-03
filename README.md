@@ -4,6 +4,12 @@ Solución al reto de front-end, Color Flipper de Nuwe. La finalidad del challeng
 El objetivo de la app es que, al presionar el botón se genere un color aleatorio y este se aplique al background. 
 Como segundo objetivo, al clicar sobre el hex color se copia al portapapeles.
 
+
+<img width="601" alt="Screen Shot 2021-11-03 at 19 14 41" src="https://user-images.githubusercontent.com/65559206/140168660-3c66c3c1-ccc4-43ae-a3c5-52be8466b66f.png">
+
+<img width="601" alt="Screen Shot 2021-11-03 at 19 15 09" src="https://user-images.githubusercontent.com/65559206/140168733-13f68e82-cc6c-4270-8c17-4a1c9682f70c.png">
+
+
 ## Inicio :rocket:
 Para comenzar a trabajar con el repositorio instalar los paquetes e iniciar la app:
 
