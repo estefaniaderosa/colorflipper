@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import randomColor from "randomcolor";
+import { useState } from 'react';
+import './index.css';
 
-function App() {
+const App = () =>  {
+  const [color,setColor]= useState('#f3c4fb');
+
+  const handleClick= () => {
+    setColor(
+      randomColor()
+    );
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{backgroundColor: color }}>
+      <h1 onClick={() =>  navigator.clipboard.writeText(color)}> {color} </h1>
+      <h4> Click to copy hex code </h4>
+      <h3> Press the button below to generate a new color </h3>
+      <div className="button-container">
+        <button onClick={handleClick}>Click me!</button>
+      </div>
     </div>
   );
 }
