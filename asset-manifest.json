@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/colorflipper/static/css/main.523b2d3d.chunk.css",
+    "main.js": "/colorflipper/static/js/main.3674e7f8.chunk.js",
+    "main.js.map": "/colorflipper/static/js/main.3674e7f8.chunk.js.map",
+    "runtime-main.js": "/colorflipper/static/js/runtime-main.a8ab9636.js",
+    "runtime-main.js.map": "/colorflipper/static/js/runtime-main.a8ab9636.js.map",
+    "static/js/2.7ed779f7.chunk.js": "/colorflipper/static/js/2.7ed779f7.chunk.js",
+    "static/js/2.7ed779f7.chunk.js.map": "/colorflipper/static/js/2.7ed779f7.chunk.js.map",
+    "index.html": "/colorflipper/index.html",
+    "static/css/main.523b2d3d.chunk.css.map": "/colorflipper/static/css/main.523b2d3d.chunk.css.map",
+    "static/js/2.7ed779f7.chunk.js.LICENSE.txt": "/colorflipper/static/js/2.7ed779f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8ab9636.js",
+    "static/js/2.7ed779f7.chunk.js",
+    "static/css/main.523b2d3d.chunk.css",
+    "static/js/main.3674e7f8.chunk.js"
+  ]
+}
