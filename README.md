@@ -43,5 +43,4 @@ Para comenzar a trabajar con el repositorio instalar los paquetes e iniciar la a
 
 ## Calidad de Código :white_check_mark:
  
-[![CodeFactor](https://www.codefactor.io/repository/github/estefaniaderosa/colorflipper/badge)](https://www.codefactor.io/repository/github/estefaniaderosa/colorflipper)
- 
+[![CodeFactor](https://www.codefactor.io/repository/github/estefaniaderosa/colorflipper/badge/master)](https://www.codefactor.io/repository/github/estefaniaderosa/colorflipper/overview/master)
