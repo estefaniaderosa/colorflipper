@@ -1,6 +1,6 @@
 ## COLOR FLIPPER :art:
 
-Solución al reto de front-end, Color Flipper de Nuwe. La finalidad del challenge es practicar las skills básicas de lógica y de diseño. 
+Solución al reto de frontend, Color Flipper de Nuwe. La finalidad del challenge es practicar las skills básicas de lógica y de diseño. 
 El objetivo de la app es que, al presionar el botón se genere un color aleatorio y este se aplique al background. 
 Como segundo objetivo, al clicar sobre el hex color se copia al portapapeles.
 
